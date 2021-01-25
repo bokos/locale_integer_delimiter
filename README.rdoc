@@ -1,0 +1,3 @@
+= locale_integer_delimiter
+
+Redmine plugin. Displays integers with delimiter from selected locale.
