@@ -4,7 +4,7 @@ Redmine::Plugin.register :locale_integer_delimiter do
   name 'Locale Integer Delimiter plugin'
   author 'bokos'
   description 'Displays integers with delimiter from selected locale'
-  version '0.0.1'
+  version '0.0.2'
   url 'https://github.com/bokos/locale_integer_delimiter'
   author_url 'https://github.com/bokos/locale_integer_delimiter'
 

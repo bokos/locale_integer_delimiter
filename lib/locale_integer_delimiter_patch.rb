@@ -1,3 +1,5 @@
+include ActionView::Helpers::NumberHelper
+
 module LocaleIntegerDelimiterPatch
   def self.included(base)
     def format_object_with_locale_delimiter(object, html=true, &block)
