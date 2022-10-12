@@ -1,5 +1,3 @@
-require 'locale_integer_delimiter_patch'
-
 Redmine::Plugin.register :locale_integer_delimiter do
   name 'Locale Integer Delimiter plugin'
   author 'bokos'
